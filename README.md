@@ -2,3 +2,5 @@
 
 # Laravel-Vue.js-3-CRUD
 Laravel and Vuejs backend cruded - List
+
+https://user-images.githubusercontent.com/60448270/234788840-6ddeabd3-7dd5-4a97-86a6-3051dd85a205.mp4
